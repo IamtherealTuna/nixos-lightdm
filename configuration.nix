@@ -35,7 +35,7 @@ in {
 	};
 
 	services = {
-		# displayManager.defaultSession = "none+i3";
+		displayManager.defaultSession = "plasma";
 		xserver.displayManager.lightdm = {
 			enable = true;
 			greeters.gtk.enable = true;
