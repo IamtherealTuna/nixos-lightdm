@@ -1,6 +1,6 @@
 [User]
-Session=none+i3
-SessionType=x11
-XSession=none+i3
+Session=plasma
+SessionType=wayland
+XSession=plasma
 Icon=/var/lib/AccountsService/icons/typovrak
 SystemAccount=false
